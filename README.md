@@ -1,4 +1,5 @@
-# sub-1mb-Bible-website
+# MicroBible NIV
+more translations upon request
 
 Dependancies:
 1. bz2: [https://github.com/SheetJS/bz2](https://github.com/SheetJS/bz2)
