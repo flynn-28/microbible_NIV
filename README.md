@@ -6,14 +6,14 @@ Dependancies:
 
 NIV Bible available at [https://biblestep.top](https://biblestep.top)
 
-Repo structure:
-src/:
-a dir containing the full code for everything, written out for easily reading
-build/:
-a dir containing the final code, under 1mb, difficult to read
+Repo structure: <br>
+src/: <br>
+a dir containing the full code for everything, written out for easily reading <br>
+build/: <br>
+a dir containing the final code, under 1mb, difficult to read <br>
 
-testing size:
-Measure folder with: ``du -sk --apparent-size build``
+testing size:<br>
+Measure folder with: ``du -sk --apparent-size build``<br>
 Command returns:
 ```bash
 915     build
